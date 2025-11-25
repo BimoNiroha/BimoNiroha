@@ -4,3 +4,5 @@
 
 - Share only what feels stable and useful.
 
+- Organize files so future you can still follow.
+
