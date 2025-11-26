@@ -6,3 +6,5 @@
 
 - Organize files so future you can still follow.
 
+- Leave short comments where intent is not obvious.
+
