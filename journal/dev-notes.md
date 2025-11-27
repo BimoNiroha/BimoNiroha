@@ -8,3 +8,5 @@
 
 - Leave short comments where intent is not obvious.
 
+- Capture small ideas before they are forgotten.
+
