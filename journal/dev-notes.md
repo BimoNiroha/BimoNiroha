@@ -10,3 +10,5 @@
 
 - Capture small ideas before they are forgotten.
 
+- Keep experiments isolated from stable code.
+
