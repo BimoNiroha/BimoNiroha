@@ -12,3 +12,5 @@
 
 - Keep experiments isolated from stable code.
 
+- Document what was learned, not just what was done.
+
