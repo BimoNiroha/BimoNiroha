@@ -14,3 +14,5 @@
 
 - Document what was learned, not just what was done.
 
+- Revisit old notes to see how thinking evolved.
+
