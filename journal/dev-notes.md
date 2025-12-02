@@ -16,3 +16,5 @@
 
 - Revisit old notes to see how thinking evolved.
 
+- Keep side projects small enough to finish.
+
