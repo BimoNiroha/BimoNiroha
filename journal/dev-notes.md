@@ -18,3 +18,5 @@
 
 - Keep side projects small enough to finish.
 
+- Organize files so future you can still follow.
+
