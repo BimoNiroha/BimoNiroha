@@ -22,3 +22,7 @@
 
 - Leave short comments where intent is not obvious.
 
+
+Consider adding contribution guidelines.
+Explore CI/CD pipeline integration.
+
