@@ -26,3 +26,7 @@
 Consider adding contribution guidelines.
 Explore CI/CD pipeline integration.
 
+
+Consider adding a README.md explaining the project's purpose and how to use it.
+Explore CI/CD pipeline integration for automated testing and deployment.
+
