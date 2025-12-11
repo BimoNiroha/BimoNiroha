@@ -34,3 +34,7 @@ Explore CI/CD pipeline integration for automated testing and deployment.
 - Consider adding CI/CD pipelines for automated testing and deployment.
 - Document deployment instructions and dependencies clearly.
 
+
+Enhance README with contribution guidelines and a clear project roadmap.
+Implement automated testing suite for core functionalities and dependency updates.
+
