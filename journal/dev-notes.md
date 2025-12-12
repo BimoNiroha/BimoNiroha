@@ -38,3 +38,7 @@ Explore CI/CD pipeline integration for automated testing and deployment.
 Enhance README with contribution guidelines and a clear project roadmap.
 Implement automated testing suite for core functionalities and dependency updates.
 
+
+*   **Project Focus:** Clearly define if BimoNiroha is a personal portfolio, a collection of specific projects, a learning repository, or a combination.
+*   **Contribution Guidelines:** If collaborative work is expected, add a `CONTRIBUTING.md` file outlining how others can contribute.
+
