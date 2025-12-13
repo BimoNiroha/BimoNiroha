@@ -42,3 +42,7 @@ Implement automated testing suite for core functionalities and dependency update
 *   **Project Focus:** Clearly define if BimoNiroha is a personal portfolio, a collection of specific projects, a learning repository, or a combination.
 *   **Contribution Guidelines:** If collaborative work is expected, add a `CONTRIBUTING.md` file outlining how others can contribute.
 
+
+* Consider implementing a CI/CD pipeline for automated testing and deployment.
+* Explore adding unit tests for core functionalities and integration tests for module interactions.
+
