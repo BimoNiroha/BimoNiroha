@@ -46,3 +46,7 @@ Implement automated testing suite for core functionalities and dependency update
 * Consider implementing a CI/CD pipeline for automated testing and deployment.
 * Explore adding unit tests for core functionalities and integration tests for module interactions.
 
+
+- Consider adding a CONTRIBUTING.md file to guide potential contributors.
+- Explore CI/CD integration for automated testing and deployment.
+
