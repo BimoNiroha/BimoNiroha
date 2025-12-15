@@ -50,3 +50,8 @@ Implement automated testing suite for core functionalities and dependency update
 - Consider adding a CONTRIBUTING.md file to guide potential contributors.
 - Explore CI/CD integration for automated testing and deployment.
 
+
+Consider adding a CI/CD pipeline for automated testing and deployment.
+
+Explore integrating with other APIs or services relevant to BimoNiroha's functionality (e.g., weather APIs, mapping services).
+
