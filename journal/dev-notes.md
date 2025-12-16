@@ -55,3 +55,6 @@ Consider adding a CI/CD pipeline for automated testing and deployment.
 
 Explore integrating with other APIs or services relevant to BimoNiroha's functionality (e.g., weather APIs, mapping services).
 
+
+Key feature ideas: User progress tracking, gamified learning elements.
+
