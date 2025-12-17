@@ -58,3 +58,7 @@ Explore integrating with other APIs or services relevant to BimoNiroha's functio
 
 Key feature ideas: User progress tracking, gamified learning elements.
 
+
+- Consider a CI/CD pipeline for automated testing and deployment.
+- Explore adding contribution guidelines and a code of conduct.
+
