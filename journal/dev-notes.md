@@ -62,3 +62,7 @@ Key feature ideas: User progress tracking, gamified learning elements.
 - Consider a CI/CD pipeline for automated testing and deployment.
 - Explore adding contribution guidelines and a code of conduct.
 
+
+*   Consider a contribution guide for onboarding new developers.
+*   Explore integrating CI/CD pipelines for automated testing and deployment.
+
