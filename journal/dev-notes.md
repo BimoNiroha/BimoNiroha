@@ -66,3 +66,7 @@ Key feature ideas: User progress tracking, gamified learning elements.
 *   Consider a contribution guide for onboarding new developers.
 *   Explore integrating CI/CD pipelines for automated testing and deployment.
 
+
+Consider adding CI/CD pipelines for automated testing and deployment.
+Explore microservices architecture for better scalability and maintainability.
+
