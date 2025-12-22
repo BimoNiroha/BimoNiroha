@@ -78,3 +78,7 @@ Explore potential integrations with cloud services.
 Consider adding a README.md to explain the project's purpose and how to use it.
 Explore using CI/CD pipelines for automated testing and deployment.
 
+
+Consider adding a README.md file detailing the project's purpose, setup instructions, and usage examples.
+Explore potential CI/CD pipeline integration for automated testing and deployment.
+
