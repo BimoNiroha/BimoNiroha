@@ -82,3 +82,7 @@ Explore using CI/CD pipelines for automated testing and deployment.
 Consider adding a README.md file detailing the project's purpose, setup instructions, and usage examples.
 Explore potential CI/CD pipeline integration for automated testing and deployment.
 
+
+Feature flagging for A/B testing.
+Dockerize the application for easier deployment.
+
