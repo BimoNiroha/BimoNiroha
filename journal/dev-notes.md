@@ -86,3 +86,7 @@ Explore potential CI/CD pipeline integration for automated testing and deploymen
 Feature flagging for A/B testing.
 Dockerize the application for easier deployment.
 
+
+1.  Consider adding a "Features" section to the README to highlight key functionalities.
+2.  Implement unit tests for core logic to ensure reliability.
+
