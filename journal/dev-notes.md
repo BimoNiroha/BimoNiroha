@@ -90,3 +90,7 @@ Dockerize the application for easier deployment.
 1.  Consider adding a "Features" section to the README to highlight key functionalities.
 2.  Implement unit tests for core logic to ensure reliability.
 
+
+- Implement a CI/CD pipeline for automated testing and deployment.
+- Add comprehensive unit and integration tests for all core functionalities.
+
