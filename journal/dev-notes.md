@@ -98,3 +98,7 @@ Dockerize the application for easier deployment.
 Consider adding a CONTRIBUTING.md file.
 Explore GitHub Actions for CI/CD integration.
 
+
+- Explore integration with popular CI/CD platforms (e.g., GitHub Actions, GitLab CI).
+- Consider adding an API for programmatic access and external tool integration.
+
