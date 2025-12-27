@@ -94,3 +94,7 @@ Dockerize the application for easier deployment.
 - Implement a CI/CD pipeline for automated testing and deployment.
 - Add comprehensive unit and integration tests for all core functionalities.
 
+
+Consider adding a CONTRIBUTING.md file.
+Explore GitHub Actions for CI/CD integration.
+
