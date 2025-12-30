@@ -107,3 +107,7 @@ Explore GitHub Actions for CI/CD integration.
 
 Consider adding a "Getting Started" guide within the README, outlining the steps for a new user to set up and run the project.
 
+
+Consider adding a CONTRIBUTING.md file to outline contribution guidelines.
+Explore adding automated testing for key functionalities.
+
