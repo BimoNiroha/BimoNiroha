@@ -115,3 +115,7 @@ Explore adding automated testing for key functionalities.
 Consider adding a contribution guide.
 Explore integrating automated testing frameworks.
 
+
+- Consider adding CI/CD pipelines for automated testing and deployment.
+- Explore integration with external services for data enrichment or advanced analytics.
+
