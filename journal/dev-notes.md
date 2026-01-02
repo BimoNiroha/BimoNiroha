@@ -111,3 +111,7 @@ Consider adding a "Getting Started" guide within the README, outlining the steps
 Consider adding a CONTRIBUTING.md file to outline contribution guidelines.
 Explore adding automated testing for key functionalities.
 
+
+Consider adding a contribution guide.
+Explore integrating automated testing frameworks.
+
