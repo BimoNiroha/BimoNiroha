@@ -119,3 +119,7 @@ Explore integrating automated testing frameworks.
 - Consider adding CI/CD pipelines for automated testing and deployment.
 - Explore integration with external services for data enrichment or advanced analytics.
 
+
+- Explore integrating a knowledge base or documentation link for quicker onboarding.
+- Consider adding a "Contributing.md" to encourage community involvement and contributions.
+
