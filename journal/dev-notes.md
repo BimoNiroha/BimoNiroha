@@ -127,3 +127,7 @@ Explore integrating automated testing frameworks.
 - Consider adding documentation for setting up the development environment.
 - Explore integrating a CI/CD pipeline for automated testing and deployment.
 
+
+- Integrate CI/CD pipeline for automated testing and deployment.
+- Add comprehensive unit and integration tests for core functionalities.
+
