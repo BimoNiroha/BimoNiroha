@@ -123,3 +123,7 @@ Explore integrating automated testing frameworks.
 - Explore integrating a knowledge base or documentation link for quicker onboarding.
 - Consider adding a "Contributing.md" to encourage community involvement and contributions.
 
+
+- Consider adding documentation for setting up the development environment.
+- Explore integrating a CI/CD pipeline for automated testing and deployment.
+
