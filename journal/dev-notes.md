@@ -135,3 +135,8 @@ Explore integrating automated testing frameworks.
 - **Community Engagement:** Consider a section for showcasing user-submitted projects or contributions.
 - **Interactive Demos:** Integrate live, runnable examples directly within the README for quick feature exploration.
 
+
+Potential for integrating sentiment analysis of user feedback on the BimoNiroha platform.
+
+Considerations for scalable deployment strategies of the BimoNiroha application.
+
