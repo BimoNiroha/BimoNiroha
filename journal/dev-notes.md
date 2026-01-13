@@ -144,3 +144,7 @@ Considerations for scalable deployment strategies of the BimoNiroha application.
 Consider adding a README.md for project overview and setup.
 Explore CI/CD integration for automated testing and deployment.
 
+
+Consider adding a README explaining the project's purpose and setup.
+Explore potential contributions from the community or other related projects.
+
