@@ -152,3 +152,7 @@ Explore potential contributions from the community or other related projects.
 - Consider adding a CONTRIBUTING.md file to guide potential contributors.
 - Explore CI/CD pipeline setup for automated testing and deployment.
 
+
+- Consider a "Contributors" section to showcase collaboration.
+- Explore a CI/CD pipeline for automated testing and deployment.
+
