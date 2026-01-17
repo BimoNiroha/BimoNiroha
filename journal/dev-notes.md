@@ -160,3 +160,7 @@ Explore potential contributions from the community or other related projects.
 - Consider adding a section for common troubleshooting tips.
 - Explore integration with popular data visualization libraries (e.g., Matplotlib, Seaborn) for enhanced output analysis.
 
+
+Explore integrating a CI/CD pipeline for automated testing and deployment.
+Consider adding unit tests for core functionalities to ensure code stability.
+
