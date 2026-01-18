@@ -164,3 +164,7 @@ Explore potential contributions from the community or other related projects.
 Explore integrating a CI/CD pipeline for automated testing and deployment.
 Consider adding unit tests for core functionalities to ensure code stability.
 
+
+* Consider a README detailing the project's purpose, setup, and contribution guidelines.
+* Explore integrating CI/CD for automated testing and deployment.
+
