@@ -168,3 +168,7 @@ Consider adding unit tests for core functionalities to ensure code stability.
 * Consider a README detailing the project's purpose, setup, and contribution guidelines.
 * Explore integrating CI/CD for automated testing and deployment.
 
+
+Consider adding a CONTRIBUTING.md file to guide potential contributors.
+Explore CI/CD integration for automated testing and deployment.
+
