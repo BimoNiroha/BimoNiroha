@@ -172,3 +172,7 @@ Consider adding unit tests for core functionalities to ensure code stability.
 Consider adding a CONTRIBUTING.md file to guide potential contributors.
 Explore CI/CD integration for automated testing and deployment.
 
+
+- Consider a CONTRIBUTING.md file to guide potential contributors.
+- Add unit tests for core functionalities to ensure stability.
+
