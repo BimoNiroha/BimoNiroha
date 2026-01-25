@@ -185,3 +185,7 @@ Consider implementing a basic CI/CD pipeline.
 
 Explore adding unit and integration tests.
 
+
+* **Contribution Guidelines:** Clearly outline how others can contribute, including code style, testing expectations, and pull request process.
+* **Roadmap/Future Features:** A section detailing planned improvements, new features, or areas of development can attract collaborators and set expectations.
+
