@@ -189,3 +189,7 @@ Explore adding unit and integration tests.
 * **Contribution Guidelines:** Clearly outline how others can contribute, including code style, testing expectations, and pull request process.
 * **Roadmap/Future Features:** A section detailing planned improvements, new features, or areas of development can attract collaborators and set expectations.
 
+
+*   Consider adding a CONTRIBUTING.md file to guide potential contributors.
+*   Implement a robust CI/CD pipeline for automated testing and deployment.
+
