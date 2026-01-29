@@ -193,3 +193,7 @@ Explore adding unit and integration tests.
 *   Consider adding a CONTRIBUTING.md file to guide potential contributors.
 *   Implement a robust CI/CD pipeline for automated testing and deployment.
 
+
+Consider adding a README file explaining the project's purpose and setup.
+Explore adding unit tests for core functionalities.
+
